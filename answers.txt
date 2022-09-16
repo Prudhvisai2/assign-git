@@ -1,0 +1,11 @@
+1) What is a gitignore file and what should it include for a Java project?
+	The gitignore record is a plain text report that tells Git documents to disregard while committing your undertaking to the GitHub store. gitignore is situated in the root catalog of your repo. While making focuses on any Git storehouse, you'll pick the documents you need to stage, and afterward, you'll commit them. However, you might not have any desire to commit each and every one of your documents, there are records that never need to get committed. This is where the. gitignore record is helpful, It lets Git know which documents to overlook and never track. It includes all the log files and package files that are to be ignored.
+
+2) What does fast-forward in git mean?
+	at the point when you attempt to combine one commit with a commit that can be reached by following the first commit's set of experiences, Git works on things by pushing the pointer ahead in light of the fact that there is no unique work to combine, this is classified "quick forward". In the event that the expert has not wandered, rather than making a new commit, git will simply direct the expert toward the most recent commit of the component branch. This is a "quick forward."
+
+3) Why should you have different branches?
+	Utilizing branches assists you with putting together the work process all the more effectively and rather easily. At the point when you begin fostering another element, you'd make another branch for it. Along these lines assuming there's a bug report in the ongoing form, you can return to the principal branch, fix the bug there, and discharge an update - and afterward, return to the new element branch and work.
+
+4) In a project how many remote Git repositories do you usually have?
+	At the point when you have one single far-off archive, it is classified as "beginning" of course. In the event that we have at least two distant vaults, we ought to name every one of them utilizing extraordinary names.
